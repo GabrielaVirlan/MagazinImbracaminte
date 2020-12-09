@@ -12,7 +12,7 @@ namespace MagazinImbracaminte.Models
     {
         [Key]
         public string CartId { get; set; }
-        public int UserId { get; set}
+        public int UserId { get; set;}
         [ForeignKey("UserId")]
         public virtual User User { get; set; }
         public virtual Delivery DeliveryAdress { get; set; }

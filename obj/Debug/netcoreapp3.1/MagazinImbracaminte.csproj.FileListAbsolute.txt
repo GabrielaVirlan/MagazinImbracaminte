@@ -1,6 +1,5 @@
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\MagazinImbracaminte.exe
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\MagazinImbracaminte.deps.json
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\MagazinImbracaminte.runtimeconfig.json
@@ -9,7 +8,6 @@ C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\Magaz
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\MagazinImbracaminte.pdb
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\MagazinImbracaminte.Views.dll
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\MagazinImbracaminte.Views.pdb
-C:\Users\Gabriela\source\repos\MagazinImbracaminte\obj\Debug\netcoreapp3.1\MagazinImbracaminte.csprojAssemblyReference.cache
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\obj\Debug\netcoreapp3.1\MagazinImbracaminte.AssemblyInfoInputs.cache
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\obj\Debug\netcoreapp3.1\MagazinImbracaminte.AssemblyInfo.cs
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\obj\Debug\netcoreapp3.1\MagazinImbracaminte.RazorAssemblyInfo.cache
@@ -169,3 +167,4 @@ C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\zh-Ha
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\obj\Debug\netcoreapp3.1\MagazinImbracaminte.csproj.CoreCompileInputs.cache
 C:\Users\Gabriela\source\repos\MagazinImbracaminte\obj\Debug\netcoreapp3.1\MagazinImbracaminte.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriela\source\repos\MagazinImbracaminte\obj\Debug\netcoreapp3.1\scopedcss\bundle\MagazinImbracaminte.styles.css
