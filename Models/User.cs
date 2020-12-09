@@ -1,0 +1,30 @@
+﻿using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace MagazinImbracaminte.Models
+{
+    public class User
+    {
+        [Key]
+        public int UserId { get; set; }
+        [MaxLength(50)]
+        public string FirstName { get; set; }
+        [MaxLength(50)]
+        public string LastName { get; set; }
+        [MaxLength(15)]
+        public string PhoneNumber { get; set; }
+        [MaxLength(100)]
+        public string EmailAdress { get; set; }
+        [MaxLength(50)]
+        public string Passworld { get; set; }
+        public UserRole UserRole { get; set; }
+
+        public ICollection<Cart> Carts { get; set; }
+
+    }
+}
